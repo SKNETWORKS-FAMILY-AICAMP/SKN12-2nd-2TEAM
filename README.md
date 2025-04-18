@@ -10,12 +10,12 @@
 ## 👀 팀 소개
 ### 🐰 팀 명 : 당근 그리고 채찍
 - e-commerce 시장에서 고객 유입이 당근이라면 고객 이탈은 채찍이라고 생각했습니다. 예비 이탈자를 이미 알고 체계적인 고객 대응으로 채찍을 줄이자는 목표를 가지고 있는 팀입니다.
-### 👥 팀 멤버
+## 👥 팀 멤버
 
-
-| ![](https://github.com/user-attachments/assets/cdc6b8cd-155c-46de-99a5-d31673585b36) | ![](https://i.pinimg.com/236x/04/9d/5b/049d5b422b254da9edb8bebe2b2a79c4.jpg) | ![](https://i.pinimg.com/236x/04/9d/5b/049d5b422b254da9edb8bebe2b2a79c4.jpg) | ![](https://i.pinimg.com/236x/04/9d/5b/049d5b422b254da9edb8bebe2b2a79c4.jpg) |
+| ![](https://dimg.donga.com/wps/NEWS/IMAGE/2006/08/05/6979057.1.jpg) | ![](https://github.com/user-attachments/assets/cdc6b8cd-155c-46de-99a5-d31673585b36) | ![](https://cdn.discordapp.com/attachments/1361611376614707345/1362676371889066085/123.jpg?ex=680342c4&is=6801f144&hm=4261283bf4270e94ce4ad4997abaf62400e598ba11820e2632f39f0983197c27&) | ![](https://cdn.discordapp.com/attachments/1361611376614707345/1362676102635585777/c5321412add38660.jpeg?ex=68034284&is=6801f104&hm=af6f92c4ee5b75101aefc6c6120f060dc19a4e77e743f8cbf4039a2632d815b0&) |
 |:--:|:--:|:--:|:--:|
 | **김원우** | **김재현** | **남의헌** | **황차해** |
+
 
 ---
 
