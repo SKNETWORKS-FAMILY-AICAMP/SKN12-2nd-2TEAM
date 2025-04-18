@@ -12,7 +12,8 @@
 - e-commerce 시장에서 고객 유입이 당근이라면 고객 이탈은 채찍이라고 생각했습니다. 예비 이탈자를 이미 알고 체계적인 고객 대응으로 채찍을 줄이자는 목표를 가지고 있는 팀입니다.
 ### 👥 팀 멤버
 
-| ![](https://i.pinimg.com/236x/04/9d/5b/049d5b422b254da9edb8bebe2b2a79c4.jpg) | ![](https://i.pinimg.com/236x/04/9d/5b/049d5b422b254da9edb8bebe2b2a79c4.jpg) | ![](https://i.pinimg.com/236x/04/9d/5b/049d5b422b254da9edb8bebe2b2a79c4.jpg) | ![](https://i.pinimg.com/236x/04/9d/5b/049d5b422b254da9edb8bebe2b2a79c4.jpg) |
+
+| ![](https://github.com/user-attachments/assets/cdc6b8cd-155c-46de-99a5-d31673585b36) | ![](https://i.pinimg.com/236x/04/9d/5b/049d5b422b254da9edb8bebe2b2a79c4.jpg) | ![](https://i.pinimg.com/236x/04/9d/5b/049d5b422b254da9edb8bebe2b2a79c4.jpg) | ![](https://i.pinimg.com/236x/04/9d/5b/049d5b422b254da9edb8bebe2b2a79c4.jpg) |
 |:--:|:--:|:--:|:--:|
 | **김원우** | **김재현** | **남의헌** | **황차해** |
 
