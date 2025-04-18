@@ -128,7 +128,7 @@ with tab2:
         }), use_container_width=True)
 
     with col_m2:
-        st.subheader("📋 LGBM | 최적 모델 선정 과정")
+        st.subheader("📋 XGBOOST | 최적 모델 선정 과정")
         preds_df = pd.read_csv("preds_for_confusion.csv")
         y_true = preds_df['이탈여부']
         y_pred = preds_df['예측이탈여부']
@@ -137,7 +137,7 @@ with tab2:
         st.dataframe(report_df.loc[['0', '1', 'accuracy']], use_container_width=True)
 
     with col_m3:
-        st.subheader("📉 LGBM | 혼동행렬")
+        st.subheader("📉 XGBOOST | 혼동행렬")
         cm = confusion_matrix(y_true, y_pred)
         fig, ax = plt.subplots()
         sns.heatmap(cm, annot=True, fmt="d", cmap="Blues",
