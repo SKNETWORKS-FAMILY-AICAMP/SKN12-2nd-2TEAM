@@ -1,8 +1,16 @@
 # 🏷️ SKN12-2nd-2TEAM
+## 👨‍💻 프로젝트 : e-commerce 고객 이탈자 예측 
+
+![image](https://github.com/user-attachments/assets/d9136909-8301-4bb8-bdab-88c39b7afe91)
+
+
+
 
 ---
-
-## 👥 팀 멤버
+## 👀 팀 소개
+### 🐰 팀 명 : 당근 그리고 채찍
+- e-commerce 시장에서 고객 유입이 당근이라면 고객 이탈은 채찍이라고 생각했습니다. 예비 이탈자를 이미 알고 체계적인 고객 대응으로 채찍을 줄이자는 목표를 가지고 있는 팀입니다.
+### 👥 팀 멤버
 
 | ![](https://i.pinimg.com/236x/04/9d/5b/049d5b422b254da9edb8bebe2b2a79c4.jpg) | ![](https://i.pinimg.com/236x/04/9d/5b/049d5b422b254da9edb8bebe2b2a79c4.jpg) | ![](https://i.pinimg.com/236x/04/9d/5b/049d5b422b254da9edb8bebe2b2a79c4.jpg) | ![](https://i.pinimg.com/236x/04/9d/5b/049d5b422b254da9edb8bebe2b2a79c4.jpg) |
 |:--:|:--:|:--:|:--:|
@@ -95,7 +103,7 @@
 
 ---
 
-### 🔁 전처리 흐름도
+### 🔁 데이터 전처리 흐름도
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1361611376614707345/1362653548663406682/image.png?ex=68032d82&is=6801dc02&hm=b50626e7f6b16c731831baaf68f5c88e43250a8c3be96cbdaa0f11900512440c&" width="400" height="400">
