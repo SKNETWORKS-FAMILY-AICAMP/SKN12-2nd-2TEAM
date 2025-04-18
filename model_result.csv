@@ -1,0 +1,6 @@
+index,Model,ROC AUC,F1 (0),F1 (1),Best Params
+0,lgbm,0.915906805,0.847916667,0.980695491,"{'n_estimators': 500, 'num_leaves': 109, 'min_child_samples': 2, 'learning_rate': 0.043206749030914336, 'log_max_bin': 9, 'colsample_bytree': 0.5126589403588886, 'reg_alpha': 0.009006775355907872, 'reg_lambda': 0.03769962137836358}"
+1,rf,0.915445453,0.845626428,0.980344955,"{'n_estimators': 40, 'max_features': 0.8184227776265054, 'max_leaves': 2236, 'criterion': 'entropy'}"
+2,xgboost,0.907277644,0.840472522,0.979429101,"{'n_estimators': 107, 'max_leaves': 1767, 'min_child_weight': 2.1123074810002, 'learning_rate': 0.17784630657236908, 'subsample': 0.9360350696957777, 'colsample_bylevel': 0.7356758761616564, 'colsample_bytree': 0.8311935790125589, 'reg_alpha': 0.08131768413055317, 'reg_lambda': 0.18934970626287984}"
+3,extra_tree,0.914620893,0.837762955,0.979055441,"{'n_estimators': 9, 'max_features': 1.0, 'max_leaves': 4632, 'criterion': 'entropy'}"
+4,sgd,0.833323969,0.439186974,0.846641167,"{'penalty': 'None', 'alpha': 0.0014776589780702621, 'l1_ratio': 0.24176042444670984, 'epsilon': 0.1, 'learning_rate': 'constant', 'eta0': 0.005266428651208197, 'power_t': 0.4249928551938823, 'average': False, 'loss': 'modified_huber'}"
